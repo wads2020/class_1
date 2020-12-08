@@ -1,0 +1,19 @@
+body{
+    background-color: grey;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:red;
+    font-size: 75px;
+}
+.hobby-info{
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+}
+.job-info{
+    color: indigo;
+    font-size: 50px;
+    
+    
+}
